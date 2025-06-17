@@ -34,7 +34,7 @@
     "typescript": "^5.8.3"
   },
   "dependencies": {
-    "@apollo/server": "^4.12.1",
+    "@apollo/server": "^4.12.2",
     "@gqloom/core": "^0.9.1",
     "@gqloom/prisma": "^0.9.1",
     "@graphql-yoga/render-graphiql": "^5.13.4",
